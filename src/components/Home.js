@@ -48,7 +48,7 @@ function Home() {
 
   return (
     <div className="home-container">
-      <h1>Welcome to the Home Page</h1>
+      <h1>Welcome to the Versus</h1>
       <button onClick={handleLogout}>Logout</button>
     </div>
   );
